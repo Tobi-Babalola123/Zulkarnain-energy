@@ -1,0 +1,550 @@
+Figma Make actually performs better with prompts that are **design-oriented first** and **implementation-oriented second**. Unlike v0, it tends to produce cleaner results if you describe the experience, layout, and interactions in detail rather than focusing heavily on the tech stack.
+
+Here's a prompt optimized specifically for **Figma Make**.
+
+---
+
+# Figma Make Prompt
+
+## ROLE
+
+You are an award-winning Product Designer, Senior UI/UX Designer, CRO Specialist, and Frontend Designer.
+
+Design and generate a complete, modern homepage for **Zulkarnain Energy Limited**, a Nigerian renewable energy company.
+
+The current website is built with Wix and has an outdated appearance, weak conversion flow, poor visual hierarchy, repetitive sections, and lacks modern user experience principles.
+
+This redesign should completely transform the website into a premium, high-converting landing page that immediately builds trust and encourages visitors to request a free solar consultation.
+
+The design should feel comparable to websites from:
+
+* Tesla Energy
+* EcoFlow
+* Sun King
+* Arnergy
+* Daystar Power
+
+The overall experience should look like it was designed by a premium digital agency, with excellent spacing, modern typography, strong storytelling, and clear conversion paths.
+
+---
+
+# Design Style
+
+Create a clean, modern, premium interface.
+
+Use:
+
+* Large bold typography
+* Glassmorphism where appropriate
+* Soft shadows
+* Rounded cards
+* Plenty of whitespace
+* Smooth gradients
+* Premium photography
+* Modern icons
+* Elegant hover states
+* Scroll reveal animations
+* Animated counters
+* Beautiful card layouts
+* Consistent spacing throughout
+* A bright and trustworthy aesthetic
+
+Avoid:
+
+* Wix template styling
+* Generic layouts
+* Small fonts
+* Dense paragraphs
+* Image sliders
+* Outdated UI components
+
+---
+
+# Brand Colors
+
+Primary Blue
+
+#244B9A
+
+Accent Green
+
+#35C26B
+
+Accent Orange
+
+#FF9F1A
+
+Light Background
+
+#F8FAFC
+
+White
+
+#FFFFFF
+
+Dark Text
+
+#1E293B
+
+---
+
+# Homepage Structure
+
+## 1. Sticky Navigation
+
+Transparent over the hero section.
+
+Turns white when scrolling.
+
+Navigation:
+
+* Home
+* Solutions
+* Products
+* Projects
+* About
+* Blog
+* Contact
+
+Highlight the primary CTA with a filled button:
+
+**Get Free Quote**
+
+---
+
+## 2. Hero Section
+
+Use a full-screen hero with a high-quality aerial photograph of solar panels powering homes and businesses.
+
+Apply a subtle dark overlay.
+
+Left side:
+
+Headline
+
+# Powering Nigeria With Smart Renewable Energy Solutions
+
+Supporting copy:
+
+Helping homeowners, businesses, schools, and industries reduce electricity costs through reliable solar energy systems, premium inverters, and battery storage solutions.
+
+Primary Button
+
+Get Free Quote
+
+Secondary Button
+
+Explore Projects
+
+Below the buttons add three trust badges:
+
+✓ Certified Engineers
+
+✓ Premium Solar Products
+
+✓ Nationwide Installation
+
+On the right side display a floating glassmorphism statistics card showing:
+
+* Estimated Monthly Savings
+* Installation Time
+* Warranty
+* System Performance
+
+Include subtle floating animation.
+
+---
+
+## 3. Trusted Partners
+
+Create a premium logo section featuring trusted brands.
+
+Display logos in grayscale that become colored on hover.
+
+Include:
+
+* Jinko
+* Growatt
+* Huawei
+* MUST
+* Canadian Solar
+* Lumino
+
+---
+
+## 4. Benefits Section
+
+Four beautifully designed cards.
+
+Each includes a modern icon.
+
+Benefits:
+
+* Lower Electricity Bills
+* Reliable Backup Power
+* Clean Renewable Energy
+* Long-Term Savings
+
+Hover animation on each card.
+
+---
+
+## 5. Our Solar Solutions
+
+Display six premium service cards.
+
+Residential Solar
+
+Commercial Solar
+
+Industrial Solar
+
+Solar Water Pumps
+
+Solar Street Lights
+
+Energy Consulting
+
+Each card should include:
+
+* Large icon
+* Short description
+* Learn More button
+* Rounded corners
+* Hover lift animation
+
+---
+
+## 6. Featured Projects
+
+Show three completed installations.
+
+Each project card should include:
+
+Large image
+
+Project location
+
+System capacity
+
+Customer challenge
+
+Solution delivered
+
+Results achieved
+
+CTA:
+
+View Project
+
+---
+
+## 7. Solar Savings Calculator
+
+Design an interactive calculator.
+
+Fields:
+
+Monthly Electricity Bill
+
+Property Type
+
+Hours Without Power
+
+Outputs:
+
+Estimated Solar Package
+
+Estimated Monthly Savings
+
+Annual Savings
+
+ROI
+
+Modern dashboard-style card.
+
+---
+
+## 8. Installation Process
+
+Create a horizontal timeline with five steps.
+
+Consultation
+
+↓
+
+Site Inspection
+
+↓
+
+System Design
+
+↓
+
+Installation
+
+↓
+
+Maintenance
+
+Animated connecting line.
+
+---
+
+## 9. Why Choose Zulkarnain
+
+Split layout.
+
+Left:
+
+Professional installation photography.
+
+Right:
+
+Headline:
+
+Why Thousands Trust Zulkarnain Energy
+
+Include feature checklist:
+
+Certified Engineers
+
+Premium Products
+
+Manufacturer Warranty
+
+Affordable Financing
+
+Professional Installation
+
+After-Sales Support
+
+---
+
+## 10. Meet Our Team
+
+Two premium profile cards displayed side by side.
+
+Each card should include:
+
+Professional portrait
+
+Name
+
+Role
+
+Short biography
+
+LinkedIn icon
+
+Rounded corners
+
+Soft shadow
+
+Hover animation
+
+Section introduction:
+
+Meet the experts helping homes and businesses transition to cleaner, more reliable energy.
+
+---
+
+## 11. Educational Initiative
+
+Split layout.
+
+Left side:
+
+Headline:
+
+Powering the Next Generation
+
+Supporting copy:
+
+Zulkarnain Energy is committed to educating young people about renewable energy, climate change, sustainability, and environmental responsibility through outreach programs and practical learning experiences.
+
+Buttons:
+
+Learn More
+
+Partner With Us
+
+Right side:
+
+Large image showing students learning about solar energy.
+
+Rounded image with subtle floating decorative elements.
+
+---
+
+## 12. Company Statistics
+
+Dark background section.
+
+Animated counters.
+
+Display:
+
+1000+
+
+Solar Installations
+
+10MW+
+
+Clean Energy Generated
+
+98%
+
+Customer Satisfaction
+
+10+
+
+Years of Experience
+
+---
+
+## 13. Customer Testimonials
+
+Modern testimonial carousel.
+
+Include:
+
+Customer photo
+
+Name
+
+Location
+
+Star rating
+
+Review
+
+Soft card design.
+
+---
+
+## 14. Frequently Asked Questions
+
+Accordion layout.
+
+Questions:
+
+How much does solar installation cost?
+
+How long do batteries last?
+
+Do you offer maintenance?
+
+Can solar replace generators?
+
+Do you provide warranties?
+
+---
+
+## 15. Final Call-to-Action
+
+Full-width gradient section.
+
+Headline:
+
+Ready to Switch to Clean Energy?
+
+Supporting text encouraging visitors to request a free consultation.
+
+Buttons:
+
+Get Free Quote
+
+Call Our Experts
+
+---
+
+## 16. Contact Section
+
+Modern split layout.
+
+Left:
+
+Contact details
+
+Business hours
+
+Google Map
+
+Social icons
+
+Right:
+
+Inquiry form.
+
+Fields:
+
+Name
+
+Phone
+
+Email
+
+Property Type
+
+Message
+
+Large CTA button:
+
+Request My Free Quote
+
+---
+
+## 17. Footer
+
+Modern four-column footer.
+
+Company
+
+Solutions
+
+Resources
+
+Support
+
+Newsletter signup
+
+Social media icons
+
+Copyright
+
+Privacy Policy
+
+Terms
+
+---
+
+# User Experience Goals
+
+The homepage should guide visitors through a clear conversion journey:
+
+Hero → Trust → Benefits → Services → Projects → Savings Calculator → Process → Why Choose Us → Team → Community Impact → Statistics → Testimonials → FAQ → Contact.
+
+Every section should naturally encourage visitors to request a quote.
+
+---
+
+# Interactions
+
+Include:
+
+* Sticky navigation
+* Smooth scrolling
+* Scroll-triggered fade and slide animations
+* Hover effects on buttons and cards
+* Animated statistics
+* Image zoom on hover
+* Button ripple effects
+* Accessible focus states
+* Responsive layouts for desktop, tablet, and mobile
+
+---
+
+# Final Goal
+
+Generate a polished, production-ready homepage that feels like a **high-end renewable energy company website**, prioritizing trust, clarity, storytelling, and lead generation over simply showcasing products. The design should immediately communicate expertise and make it effortless for visitors to request a consultation or quotation.
