@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { motion } from "framer-motion";
+import { motion } from "framer-motion/react";
 import {
   Sun,
   Zap,
@@ -429,7 +429,7 @@ function Partners() {
     },
     {
       name: "Luminous",
-      logo: "/Images/lummy.png",
+      logo: "/Images/494997.png",
     },
     {
       name: "Felicity Solar",
@@ -473,13 +473,13 @@ function Partners() {
                 key={`${brand.name}-${index}`}
                 className="group flex h-24 w-48 shrink-0 items-center justify-center rounded-2xl border bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
                 style={{
-                  borderColor: "rgba(36,75,154,0.08)",
+                  borderColor: "rgba(15, 80, 210, 0.08)",
                 }}
               >
                 <img
                   src={brand.logo}
                   alt={brand.name}
-                  className="h-10 w-auto object-contain grayscale opacity-70 transition-all duration-300 group-hover:scale-110 group-hover:grayscale-0 group-hover:opacity-100"
+                  className="h-10 w-auto object-contain  transition-all duration-300 group-hover:scale-110 group-hover:grayscale-0 group-hover:opacity-100"
                 />
               </div>
             ))}
