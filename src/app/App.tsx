@@ -425,7 +425,7 @@ function Partners() {
     },
     {
       name: "Canadian Solar",
-      logo: "/Images/Canadian-Solar-Logo-Vector.png",
+      logo: "/Images/Canadian.png",
     },
     {
       name: "Luminous",
