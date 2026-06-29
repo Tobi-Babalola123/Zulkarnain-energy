@@ -421,11 +421,11 @@ function Partners() {
     },
     {
       name: "Deye",
-      logo: "/Images/deye.webp",
+      logo: "/Images/deyebatt.png",
     },
     {
       name: "Canadian Solar",
-      logo: "/Images/Canadian.png",
+      logo: "/Images/Canadian-Solar-Logo-Vector.png",
     },
     {
       name: "Luminous",
