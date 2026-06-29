@@ -421,7 +421,7 @@ function Partners() {
     },
     {
       name: "Deye",
-      logo: "/Images/deyebatt.png",
+      logo: "/Images/deyye.png",
     },
     {
       name: "Canadian Solar",
